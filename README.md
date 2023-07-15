@@ -1,8 +1,8 @@
-# Mapping
+# Mapping_practice
 
 This is a sample Spring Boot application that demonstrates the usage of Lombok, and MySQL in a Spring Boot project. The application showcases the relationships between various entities, such as `Student`, `Laptop`, `Course`, `Book`, and `Address`, and how they can be managed using Spring Boot and MySQL.
 
-## Table of Contents
+##  Contents
 
 - **[Frameworks and Libraries Used](#frameworks-and-libraries-used)**
 - **[Project Structure](#project-structure)**
